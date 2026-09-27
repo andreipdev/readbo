@@ -1,5 +1,14 @@
 # readbo 
 
+> **Historical project (2011) — unsafe for production.** This code is retained as
+> an early experiment and is no longer maintained. Do not deploy it or supply real
+> credentials or personal data. It contains obsolete dependencies, SHA-1 password
+> hashing and integrations that disable TLS certificate verification. These are
+> known historical limitations, not recommended engineering practices.
+
+The original project description below is preserved for context. For current
+work, see [my portfolio](https://andrei.pervychine.com/).
+
 Newsfeed app written back in 2011 by Andrei Pervychine. I am open sourcing it now because I won't have use of this code in the future. The main advantage it had compared to Google Reader was that it could also include Facebook and Twitter. It was very useful to have all the possible news in one single app.
 
 #### Reason of shut down
